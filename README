@@ -1,0 +1,19 @@
+Smails is a simple communition widget made in HTML/Javascript.
+
+Live demo: http://smails.firejune.io/ (Running with WebSocket, FlashSocket and more, for better real-time results please run it localhost and access with a Websockets-ready browser).
+
+Modules and versions used:
+Node.js v0.4.10     http://nodejs.org
+socket.IO v0.7.9  $ npm install socket.io
+
+How to run:
+$ git clone git://github.com/firejune/smails.git
+$ cd smails
+$ sudo node app.js
+
+So, access http://localhost:8080 in your modern browser, try to open more
+users simultaneously, walk around the page and talk in the chat.
+
+Tested in CentOS 5.6 (Final).
+
+Works best in Webkit browsers, IE 9 and Firefox 4.

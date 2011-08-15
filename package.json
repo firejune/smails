@@ -1,0 +1,17 @@
+{
+  "name": "smails",
+  "description": "Tracking user\'s mouse pointer and communication",
+  "version": "0.3.0",
+  "homepage": "smails.firejune.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/firejune/smails.git"
+  },
+  "author": "Firejune <to@firejune.com>",
+  "dependencies":{
+    "socket.io":"0.7.9"
+  },
+  "engines": {
+    "node": ">=0.4.0"
+  }
+}
